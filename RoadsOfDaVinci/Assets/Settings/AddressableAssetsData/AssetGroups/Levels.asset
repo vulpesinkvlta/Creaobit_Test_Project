@@ -55,6 +55,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c6efc001c219c84db578620361d29e7
+    m_Address: Assets/LA8_slv/Levels/Pack03/Lvl26/Level26_slv.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 668967ce6b596ee43b31243587319f22
     m_Address: Assets/LA8_slv/Levels/Pack02/lvl23/Level23_slv_upd.prefab
     m_ReadOnly: 0

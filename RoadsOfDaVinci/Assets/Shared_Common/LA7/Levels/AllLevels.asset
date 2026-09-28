@@ -404,9 +404,9 @@ MonoBehaviour:
     ArtifactPartDataSO: {fileID: 0}
     MapTrophy: {fileID: 0}
     MapArtifact: {fileID: 11400000, guid: be73b928590709245926687b79f46647, type: 2}
-  - levelNum: 24
+  - levelNum: 26
     level:
-      m_AssetGUID: 7faa5c4d343b22f4ba97ba87dadb6dc7
+      m_AssetGUID: 5c6efc001c219c84db578620361d29e7
       m_SubObjectName: 
       m_SubObjectType: 
       m_SubObjectGUID: 
@@ -420,7 +420,7 @@ MonoBehaviour:
       m_EditorAssetChanged: 0
     ArtifactPartDataSO: {fileID: 0}
     MapTrophy: {fileID: 0}
-    MapArtifact: {fileID: 0}
+    MapArtifact: {fileID: 11400000, guid: 394b02b767028344caa3d84505a889c3, type: 2}
   - levelNum: 25
     level:
       m_AssetGUID: 4affc658900f546428a68dbbae811ae0
