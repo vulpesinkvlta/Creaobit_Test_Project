@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 68995ebf5d54410a80f88afb7ff799bf, type: 3}
-  m_Name: la8_offeringVessel
+  m_Name: la8_flamethrower
   m_EditorClassIdentifier: 
   <ObjectTypeTags>k__BackingField: []
   <TaskTypeTags>k__BackingField:
@@ -18,16 +18,6 @@ MonoBehaviour:
   <IsStealable>k__BackingField: 0
   <StealerTagsContainsMode>k__BackingField: 0
   <StealerObjectTags>k__BackingField: []
-  <DiseasableData>k__BackingField:
-    <IsDiseasable>k__BackingField: 0
-    <DiseaseIconColor>k__BackingField: {r: 0, g: 0, b: 0, a: 0}
-    <MaxDiseasedUnits>k__BackingField: 0
-    <HealSounds>k__BackingField: {fileID: 0}
-  <BreakableData>k__BackingField:
-    <IsBreakable>k__BackingField: 0
-    <BreakableMinInterval>k__BackingField: 100
-    <BreakableMaxInterval>k__BackingField: 150
-    <Sounds>k__BackingField: {fileID: 0}
   <CanReactToPrimaryAction>k__BackingField: 1
   <CanReactToSecondaryAction>k__BackingField: 1
   <BlocksPath>k__BackingField: 1
@@ -63,12 +53,13 @@ MonoBehaviour:
   <AlternativeInteractions>k__BackingField: []
   <ShowTooltip>k__BackingField: 1
   <TooltipSettings>k__BackingField:
-    <TooltipData>k__BackingField: {fileID: 11400000, guid: ab93fa200a0c635499bcc9e9e5394d9a, type: 2}
+    <TooltipData>k__BackingField: {fileID: 11400000, guid: 173351965399ff04b933bf8646d62e11, type: 2}
     <ShowObjectImage>k__BackingField: 0
     <ShowObjectName>k__BackingField: 1
     <ShowDescription>k__BackingField: 0
     <IsExchangeTooltip>k__BackingField: 0
     <Template>k__BackingField: {fileID: 11400000, guid: 3f48f0755ab780840abebf87959ca40d, type: 2}
+    <HideWhenNothingToDo>k__BackingField: 0
     <BaseTooltipOffset>k__BackingField: {x: 0, y: 150}
     <ResourcesTooltipOffset>k__BackingField: {x: 0, y: 150}
     <PathTooltipOffset>k__BackingField: {x: 0, y: 100}

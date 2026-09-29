@@ -80,6 +80,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e83682658aa11e44ac84b01d0df7651
+    m_Address: Assets/LA8_slv/Levels/Pack03/Lvl26/Level26_slv_upd.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2f0435ff014497c4db019bfbdf22a9b9
     m_Address: Loading
     m_ReadOnly: 0
@@ -172,6 +177,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5d1ce87505c084f81a40a27184279bc7
     m_Address: Arrow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d2f9dc39b1f45a4e9abfc82398effde
+    m_Address: Assets/LA8_slv/Levels/Pack03/Lvl26/epicHintTop/Lvl26_EpicHint.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

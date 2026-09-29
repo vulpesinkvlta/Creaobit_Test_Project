@@ -404,9 +404,9 @@ MonoBehaviour:
     ArtifactPartDataSO: {fileID: 0}
     MapTrophy: {fileID: 0}
     MapArtifact: {fileID: 11400000, guid: be73b928590709245926687b79f46647, type: 2}
-  - levelNum: 26
+  - levelNum: 24
     level:
-      m_AssetGUID: 5c6efc001c219c84db578620361d29e7
+      m_AssetGUID: 
       m_SubObjectName: 
       m_SubObjectType: 
       m_SubObjectGUID: 
@@ -420,7 +420,7 @@ MonoBehaviour:
       m_EditorAssetChanged: 0
     ArtifactPartDataSO: {fileID: 0}
     MapTrophy: {fileID: 0}
-    MapArtifact: {fileID: 11400000, guid: 394b02b767028344caa3d84505a889c3, type: 2}
+    MapArtifact: {fileID: 0}
   - levelNum: 25
     level:
       m_AssetGUID: 4affc658900f546428a68dbbae811ae0
@@ -440,7 +440,7 @@ MonoBehaviour:
     MapArtifact: {fileID: 11400000, guid: 1b3947ab83ae51b4d99c63d1bc4e4831, type: 2}
   - levelNum: 26
     level:
-      m_AssetGUID: af46cb8a9a831f74b98fbbad3ecea7d1
+      m_AssetGUID: 5c6efc001c219c84db578620361d29e7
       m_SubObjectName: 
       m_SubObjectType: 
       m_SubObjectGUID: 
@@ -454,7 +454,7 @@ MonoBehaviour:
       m_EditorAssetChanged: 0
     ArtifactPartDataSO: {fileID: 0}
     MapTrophy: {fileID: 0}
-    MapArtifact: {fileID: 11400000, guid: 4ad9da1e78fdbae4090672291f9d8897, type: 2}
+    MapArtifact: {fileID: 11400000, guid: 394b02b767028344caa3d84505a889c3, type: 2}
   - levelNum: 27
     level:
       m_AssetGUID: bc7305eaf87205c4c8130ed5c49d49f5

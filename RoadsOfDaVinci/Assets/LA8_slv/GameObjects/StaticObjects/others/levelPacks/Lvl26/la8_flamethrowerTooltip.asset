@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d7fe0bcaa79340d4854a4ed4c1201886, type: 3}
-  m_Name: la8_offeringVesselTooltip
+  m_Name: la8_flamethrowerTooltip
   m_EditorClassIdentifier: 
-  <TooltipObjectName>k__BackingField: la8_offeringVessel
+  <TooltipObjectName>k__BackingField: la8_flamethrower
+  <TooltipObjectNameSuffix>k__BackingField: 
   <TooltipInputText>k__BackingField: game_hnt_need
   <TooltipOutputText>k__BackingField: game_hnt_give
   <TooltipObjectDescription>k__BackingField: 
