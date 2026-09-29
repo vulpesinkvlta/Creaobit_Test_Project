@@ -119,6 +119,11 @@ namespace _8floor.TimeManagement.Core.Scripts.Runtime.COC
         {
             for (var i = 0; i < coc.transitionStateData.Length; i++)
             {
+                if (coc.transitionStateData[i].TransitionFrom == null)
+                {
+                    Debug.LogError($"COC '{coc.name}' state #{i}: TransitionFrom is null", coc);
+                    continue;
+                }
                 coc.StateIndexes.Add(coc.transitionStateData[i].TransitionFrom, i);
                 
                 coc.transitionStateData[i].TransitionFrom.GetComponent<Collider>().enabled = false;
