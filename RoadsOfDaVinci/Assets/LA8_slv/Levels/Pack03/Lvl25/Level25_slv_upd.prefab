@@ -12203,6 +12203,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1216616039312588451}
     m_Modifications:
+    - target: {fileID: 1111723673396910379, guid: 61dea8fabfa0f8c4a9333fae711371e7, type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 2248697380672517928}
     - target: {fileID: 3730279846011276080, guid: 61dea8fabfa0f8c4a9333fae711371e7, type: 3}
       propertyPath: m_Name
       value: la8_food_lvl1 (3)
@@ -12252,6 +12256,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61dea8fabfa0f8c4a9333fae711371e7, type: 3}
+--- !u!212 &2248697380672517928 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 370135674594359655, guid: 61dea8fabfa0f8c4a9333fae711371e7, type: 3}
+  m_PrefabInstance: {fileID: 1879696722879532623}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &5670744161163474317 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6099142666765188034, guid: 61dea8fabfa0f8c4a9333fae711371e7, type: 3}
@@ -12342,6 +12351,10 @@ PrefabInstance:
     - target: {fileID: 2907174072898409498, guid: 059390d211e3c754e96a4db2edba9c90, type: 3}
       propertyPath: m_Name
       value: InactiveObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 2907174072898409498, guid: 059390d211e3c754e96a4db2edba9c90, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3355755565781877783, guid: 059390d211e3c754e96a4db2edba9c90, type: 3}
       propertyPath: m_Radius
@@ -12516,7 +12529,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 168385543560206916, guid: d8c625895738d2e40b6c18a225d595f7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.05
+      value: 0.25
       objectReference: {fileID: 0}
     - target: {fileID: 168385543560206916, guid: d8c625895738d2e40b6c18a225d595f7, type: 3}
       propertyPath: m_LocalPosition.y
@@ -12553,6 +12566,10 @@ PrefabInstance:
     - target: {fileID: 168385543560206916, guid: d8c625895738d2e40b6c18a225d595f7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1015333578431272876, guid: d8c625895738d2e40b6c18a225d595f7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.2
       objectReference: {fileID: 0}
     - target: {fileID: 1420626442406966984, guid: d8c625895738d2e40b6c18a225d595f7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14460,6 +14477,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6249244980284789483, guid: b0c46312e1fec0d45bd3bc82c5ed66ce, type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 5495019753830154332}
     - target: {fileID: 7642881490862113008, guid: b0c46312e1fec0d45bd3bc82c5ed66ce, type: 3}
       propertyPath: m_Name
       value: la8_wood_debris (2)
@@ -14472,6 +14493,11 @@ PrefabInstance:
 --- !u!4 &5092140063013346600 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 968524650336497666, guid: b0c46312e1fec0d45bd3bc82c5ed66ce, type: 3}
+  m_PrefabInstance: {fileID: 5465696910930488618}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &5495019753830154332 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 547245886090718582, guid: b0c46312e1fec0d45bd3bc82c5ed66ce, type: 3}
   m_PrefabInstance: {fileID: 5465696910930488618}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6069621350451873772

@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 68995ebf5d54410a80f88afb7ff799bf, type: 3}
-  m_Name: la8_cotton
+  m_Name: la8_riffle
   m_EditorClassIdentifier: 
   <ObjectTypeTags>k__BackingField: []
   <TaskTypeTags>k__BackingField:
@@ -38,7 +38,7 @@ MonoBehaviour:
   <InputResources>k__BackingField: []
   <InteractionHaveOutputResources>k__BackingField: 1
   <OutputResources>k__BackingField:
-  - <Resource>k__BackingField: {fileID: 11400000, guid: 52bf171313fb8034b81a1d833aed081d, type: 2}
+  - <Resource>k__BackingField: {fileID: 11400000, guid: aac68358c2be0f6459e8143858d0eee7, type: 2}
     <Amount>k__BackingField: 1
   <InteractionTime>k__BackingField: 0.01
   <UseTaskView>k__BackingField: 0
@@ -55,7 +55,7 @@ MonoBehaviour:
   <AlternativeInteractions>k__BackingField: []
   <ShowTooltip>k__BackingField: 1
   <TooltipSettings>k__BackingField:
-    <TooltipData>k__BackingField: {fileID: 11400000, guid: 7626b1e16345ae249b3a9e3e56d0ec1d, type: 2}
+    <TooltipData>k__BackingField: {fileID: 11400000, guid: 84e43c50075d3854e9a9faf279d48a7c, type: 2}
     <ShowObjectImage>k__BackingField: 0
     <ShowObjectName>k__BackingField: 1
     <ShowDescription>k__BackingField: 0
