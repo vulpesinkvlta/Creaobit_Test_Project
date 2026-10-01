@@ -16035,6 +16035,10 @@ PrefabInstance:
       value: _8floor.TimeManagement.Core.Scripts.Runtime.LevelController.TasksController.Tasks.LevelTaskBase,
         8floor.TimeManagement.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
       objectReference: {fileID: 0}
+    - target: {fileID: 8305772743078069358, guid: ccbfbf3dae6f8e7448e590ed8da602d7, type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 8999751406581846908}
     - target: {fileID: 8581967441898945268, guid: ccbfbf3dae6f8e7448e590ed8da602d7, type: 3}
       propertyPath: m_Name
       value: la8_offeringVessel
@@ -16056,6 +16060,11 @@ GameObject:
 --- !u!4 &7650260105315868610 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1187078769775479302, guid: ccbfbf3dae6f8e7448e590ed8da602d7, type: 3}
+  m_PrefabInstance: {fileID: 8814238067051320772}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &8999751406581846908 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 484133570146977464, guid: ccbfbf3dae6f8e7448e590ed8da602d7, type: 3}
   m_PrefabInstance: {fileID: 8814238067051320772}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &8882535671978667308
